@@ -2,6 +2,7 @@
 #include <math.h>
 
 #define n 100
+//double 型で考える
 #define k 1000000000000000
 #define f(x) 4/(1 + (x)*(x))
 
